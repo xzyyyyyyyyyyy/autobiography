@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @xzyyyyyyyyyyy
+- 👀 I’m interested in frontend development, mobile app debugging, network protocol analysis,
+- and the intersection of AI with everyday tech solutions. Also a big fan of music instruments!
+- 🌱 I’m currently learning machine learning frameworks (TensorFlow/PyTorch), cloud services (AWS/Azure), and advanced algorithm optimization.
+- 💞️ I’m looking to collaborate on open-source projects, mobile tool development (Android plugins/mods), AI-driven utility apps,
+-  or anything that blends coding with creative problem-solving.
+- 📫 How to reach me: DM me on GitHub or email 202431121010163@stu.hubu.edu.cn
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I once built a custom Android module to auto-sync lyrics with music apps,
+-  and I play the guitar in my free time—sometimes even code simple guitar tab generators!
